@@ -1,6 +1,13 @@
 # Discord-Based Remote Automation Framework
 ## A lightweight , unconventional remote-access + automation tool built using Discord as a communication layer.
 
+## Tech stack and requirnments :
+- python 3.10 is prefered.
+- preinstalling of `pip install discord` is recommended (if possible otherwise code handles it).
+- setting up a discord bot from Discord Dev Portal (official).
+- proper use of channelid userid and more.
+
+
 # ⭐ Overview
 This project is a remote automation framework designed to control and monitor a Windows machine using Discord as a secure, serverless communication channel.
 Instead of using traditional networking or RAT frameworks, this system uses:
