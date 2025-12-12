@@ -1,7 +1,7 @@
 # Discord-Based Remote Automation Framework
 ## A lightweight , unconventional remote-access + automation tool built using Discord as a communication layer.
 
-#⭐ Overview
+# ⭐ Overview
 This project is a remote automation framework designed to control and monitor a Windows machine using Discord as a secure, serverless communication channel.
 Instead of using traditional networking or RAT frameworks, this system uses:
 
@@ -16,8 +16,8 @@ NOTE : DO not use this on any device that you dont have the permission to run th
 as this remote code is not detected or stopped by any modern antivirus softwares, and spying on any user is strictly probhited by law.
 any misuse of the code is at your own risk , this is only for experimental purposes , studying Discord's API and Windows scripting on isolated systems that is specifically for the testing purposes.
 
-#🚀 Features:
-##📌 Core Remote Commands
+# 🚀 Features:
+## 📌 Core Remote Commands
 ### - Execute terminal commands (/run)
 ### - Evaluate Python on the fly  (/eval)
 ### - Execute any file found on the system (/exec)
